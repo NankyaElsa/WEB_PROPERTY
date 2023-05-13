@@ -1,0 +1,56 @@
+.login_bckg{
+  background-image: url('/icon.jpg');
+  margin: 0 auto;
+}
+.login{
+  background-color: rgb(162, 179, 182);
+  padding-top: 10px;
+  border-radius: 5px;
+  height: 500px;
+  width: 350px;
+  position: relative;
+  margin: 0px  auto;
+  font-size: large;
+ text-align: center;
+}
+#btn-login{
+  font-weight: bold;
+}
+.welcome{
+  text-align: center;
+  font-size: 30px;
+}
+
+.textbox{
+  border: solid black thin;
+  border-radius: 5px;
+  height: 50px;
+  width: 300px;
+}
+.entire{
+  background-color: rgb(162, 179, 182);
+  padding: 10px;
+  border-radius: 5px;
+  height: auto;
+  width: 350px;
+  position: relative;
+  margin:50px auto 0px auto;
+  font-size: large;
+ text-align: center;
+}
+.top{
+  
+  
+}
+.fields{
+  margin-top: 40px;
+  
+}
+.next{
+  margin-top: 80px;
+}
+.footer{
+  margin-top: 60px;
+  
+}
+
